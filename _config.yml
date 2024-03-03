@@ -21,7 +21,7 @@ repository               : "HGhuster/HGhuster.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile.jpg"
+  avatar           : "Profile.JPG"
   name             : "Dawei Wang"
   pronouns         : # example: "she/her"  
   bio              : "1st year PhD student of University at Buffalo"
